@@ -18,7 +18,7 @@ This repository contains a C implementation of the Lucas-Kanade optical flow alg
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/optical-flow-lucas-kanade.git
+   git clone https://github.com/lazycodebaker/Lucas-Kanade
    cd optical-flow-lucas-kanade
    ```
 
