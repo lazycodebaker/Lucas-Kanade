@@ -1,4 +1,4 @@
-```markdown
+ 
 # Optical Flow Visualization with Lucas-Kanade
 
 This repository contains a C implementation of the Lucas-Kanade optical flow algorithm to compute and visualize motion between consecutive frames of a video or image sequence. The code processes JPG frames, calculates the optical flow field, and overlays flow vectors as green arrows on the original images. The output can be stitched back into a video using FFmpeg.
